@@ -1,0 +1,5 @@
+10000000001Lars                Hansen              12345678901234567DKK
+0000000002Anna                Nielsen             98765432107654321EUR
+0000000003Peter               Jensen              11122233304445566USD
+0000000004Maria               Sørensen            55566677708889900DKK
+0000000005Lars                Petersen            22233344405556677NOK
