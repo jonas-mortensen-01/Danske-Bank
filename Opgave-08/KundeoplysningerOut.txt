@@ -1,0 +1,16 @@
+0000000001 | Lars Hansen
+    Konto: 1234567890 | Loonkonto            | 005000000 DKK
+    Konto: 9999999990 | Opsparing            | 005288109 DKK
+
+0000000002 | Anna Nielsen
+    Konto: 9876543210 | Opsparing            | 001200000 EUR
+
+0000000003 | Peter Jensen
+    Konto: 1112223330 | Budgetkonto          | 000895000 USD
+
+0000000004 | Maria Sørensen
+    Konto: 5556667770 | Børnekonto          | 000015250 0DK
+
+0000000005 | Lars Petersen
+    Konto: 2223334440 | Pension              | 004500000 NOK
+
